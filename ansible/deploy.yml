@@ -1,6 +1,5 @@
 ---
 - name: Deploy to Tomcat
-
   hosts: web
   become: yes
   tasks:
